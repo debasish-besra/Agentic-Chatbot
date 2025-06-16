@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain_community
+langchain_core
+langchain_groq    #free
+langchain_openai  #paid
+faiss-cpu
+streamlit
+tavily-python
