@@ -2,7 +2,7 @@ from configparser import ConfigParser
 
 class Config:
     def __init__(self, config_file="src/langgraph_agentic_ai/ui/ui_config_file.ini"):
-        self.config=ConfigParser()
+        self.config=ConfigParser()  #config is the object.
         self.config.read(config_file)
 
     def get_llm_options(self):
@@ -16,3 +16,7 @@ class Config:
     
     def get_page_title(self):
         return self.config["DEFAULT"].get("PAGE_TITLE")
+    
+
+# This file reads or loads the ui_config_file.ini
+# ConfigParner helps to read the file
