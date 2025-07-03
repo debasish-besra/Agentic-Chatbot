@@ -138,14 +138,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 I’m building in public — feel free to reach out or collaborate if you're into LLMs, agents, or deploying AI at scale!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/debasish-besra-80537b361/)
+
 - 🐦 [Twitter / X](https://x.com/besra_ai)
 - 📧 Email: `debasish.besra.ai@gmail.com`
 
 ---
 
 ⭐️ **Star this repo** if you find it helpful — it motivates and helps others discover it!  
-💬 Open an issue or pull request to collaborate!
+
 
 
 
