@@ -19,16 +19,7 @@ Welcome to the **Agentic AI Chatbot** project – an end-to-end, production-orie
 
 ## 📁 Project Structure
 
-agentic_chatbot/
-├── venv/ # Virtual environment (ignored in git)
-├── main.py # Main application logic
-├── tools/ # Tool-based functions for agent
-├── chains/ # LangGraph flows
-├── config/ # API keys and env setup
-├── requirements.txt # Project dependencies
-├── README.md # You're reading this!
-├── .gitignore # Git exclusions
-└── .env # Environment variables (API keys etc.)
+<pre> ``` 📁 agentic_chatbot/ ├── venv/ # Virtual environment (ignored in git) ├── main.py # Main application logic ├── tools/ # Tool-based functions for agent ├── chains/ # LangGraph flows ├── config/ # API keys and env setup ├── requirements.txt # Project dependencies ├── README.md # You're reading this! ├── .gitignore # Git exclusions └── .env # Environment variables (API keys etc.) ``` </pre>
 
 
 ---
