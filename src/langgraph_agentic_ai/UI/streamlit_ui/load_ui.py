@@ -30,10 +30,12 @@ class LoadStreamlitUI:
                 if not self.user_controls["GROQ_API_KEY"]:
                     st.warning("⚠️ Please enter your GROQ API key to proceed. Don't have? refer : https://console.groq.com/keys ")
             
-            ## USecase selection
+            ## Usecase selection
             self.user_controls["selected_usecase"]=st.selectbox("Select Usecases",usecase_options)
 
         return self.user_controls
+    
+    
 
 
 
