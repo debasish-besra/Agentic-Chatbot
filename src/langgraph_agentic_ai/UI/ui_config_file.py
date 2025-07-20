@@ -19,4 +19,4 @@ class Config:
     
 
 # This file reads or loads the ui_config_file.ini
-# ConfigParser helps to read the file
+# ConfigParser helps to read the config file
