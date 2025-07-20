@@ -5,8 +5,8 @@ from src.langgraph_agentic_ai.ui.ui_config_file import Config
 
 class LoadStreamlitUI:
     def __init__(self):
-        self.config=Config()
-        self.user_controls={}
+        self.config=Config()   # Loads config options (like LLM names)
+        self.user_controls={}  # Stores user inputs (API key, selected model, etc.)
 
     def load_streamlit_ui(self):
         st.set_page_config(page_title= "🤖 " + self.config.get_page_title(), layout="wide")
