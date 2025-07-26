@@ -18,5 +18,3 @@ class Config:
         return self.config["DEFAULT"].get("PAGE_TITLE")
     
 
-# This file reads or loads the ui_config_file.ini
-# ConfigParser helps to read the config file
